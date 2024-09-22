@@ -28,6 +28,3 @@ This is a simple REST API built with Express.js for managing blog posts. The API
 
 Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/blog-api.git
-   cd blog-api
