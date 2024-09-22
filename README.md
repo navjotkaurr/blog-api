@@ -26,5 +26,5 @@ This is a simple REST API built with Express.js for managing blog posts. The API
 
 ### Installation
 
-Clone the repository:
+Clone the repository
 
